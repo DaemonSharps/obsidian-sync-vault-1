@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "f4085bef88aa1fb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bffba5aa6628638",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38d596f2feacdea0",
+            "type": "leaf",
+            "state": {
+              "type": "conflicts-resolution-view",
+              "state": {},
+              "icon": "merge",
+              "title": "Conflicts resolution"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88be3cf1134a39dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "968b1a49b84c00c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b02ff4a0cfdaba16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "bad32bda8477f26d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "c7f9f3fba99aeb6c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5
+  },
+  "right": {
+    "id": "7208e63bb81ad28d",
+    "type": "split",
+    "children": [
+      {
+        "id": "363a745ca727b664",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a0cbfd48920a89f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Письки фрейда.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Письки фрейда"
+            }
+          },
+          {
+            "id": "fd89070d59eb93c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Письки фрейда.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Письки фрейда"
+            }
+          },
+          {
+            "id": "d70fc6c657370a02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "5addac3d5eee4259",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ДР СПБ/Расписание/День 2.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура День 2"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "github-gitless-sync:Open sync conflicts view": false,
+      "github-gitless-sync:Sync with GitHub": false
+    }
+  },
+  "active": "38d596f2feacdea0",
+  "lastOpenFiles": [
+    "ДР СПБ/Бары/Тур по барам.canvas",
+    "ДР СПБ/Расписание/День 2.canvas",
+    "ДР СПБ/Расписание/День 2 (26.06).md",
+    "ДР СПБ/Расписание/День 1 (25.06).md",
+    "ДР СПБ/Расписание/День 1.canvas",
+    "ДР СПБ/Расписание",
+    "ДР СПБ/Поездка 25.06/День 1.canvas",
+    "ДР СПБ/Поездка 25.06/День 2.canvas",
+    "ДР СПБ/Поездка 25.06/День 2 (26.06).md",
+    "ДР СПБ/Поездка 25.06/День 1 (25.06).md",
+    "Без названия",
+    "Свидания Москва/Места/Палеонтологический музей орлова.md",
+    "ДР СПБ/Отели/Отель (Sokroma).md",
+    "ДР СПБ/Московский вокзал.md",
+    "ДР СПБ/Отели",
+    "Свидания Москва/События/День открытых дверей университета кинологии.md",
+    "Свидания Москва/Рестораны/Dinner Тюрки.md",
+    "Свидания Москва/События",
+    "Свидания Москва/Места/Красный октябрь.md",
+    "Свидания Москва/Места/Переделкино.md",
+    "Свидания Москва/Активный отдых/Тюбинги GoPark.md",
+    "Свидания Москва/Места",
+    "Свидания Москва/Активный отдых/Тюбинги Лисья гора.md",
+    "Шаблоны/Шаблон места.md",
+    "Свидания Москва/Мастер классы",
+    "Свидания Москва/Активный отдых",
+    "Свидания Москва/Рестораны",
+    "Свидания Москва",
+    "ДР СПБ/Расписание/День 3 (27.06).md",
+    "ДР СПБ/Рестораны/Пхали хинкали.md",
+    "ДР СПБ/Места/Разведение мостов.md",
+    "ДР СПБ/Места/Этажи лофт.md",
+    "ДР СПБ/Места/Юсуповский дворец на Мойке.md",
+    "ДР СПБ/Места/Лютеранская церковь Аннекирхе.md",
+    "ДР СПБ/Места/Пышки на Б. Конюшенной.md",
+    "ДР СПБ/Рестораны/ПерезаГрузия.md",
+    "ДР СПБ/Рестораны/Забыли сахар one trinity place.md",
+    "ДР СПБ/Рестораны/Счастье.md",
+    "ДР СПБ/Места/Всероссийский музей А.С. Пушкина, Музей-квартира А.С. Пушкина.md",
+    "Pasted image 20250613000204.png",
+    "Московский вокзал фото.png",
+    "Письки фрейда.png",
+    "Pasted image 20250612235614.png",
+    "ДР СПБ/Поездка 25.06",
+    "ДР СПБ/Без названия.canvas",
+    "Pasted image 20250612215317.png",
+    "Pasted image 20250612215535.png",
+    "Без названия.canvas"
+  ]
+}

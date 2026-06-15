@@ -1,0 +1,17 @@
+{
+  "firstSync": false,
+  "githubToken": "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",
+  "githubOwner": "DaemonSharps",
+  "githubRepo": "obsidian-sync-vault-1",
+  "githubBranch": "main",
+  "syncStrategy": "manual",
+  "syncInterval": 1,
+  "syncOnStartup": false,
+  "syncConfigDir": false,
+  "conflictHandling": "overwriteRemote",
+  "conflictViewMode": "unified",
+  "showStatusBarItem": true,
+  "showSyncRibbonButton": true,
+  "showConflictsRibbonButton": true,
+  "enableLogging": false
+}
